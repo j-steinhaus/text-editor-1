@@ -29,7 +29,7 @@ module.exports = () => {
         description: 'Just Another Text Editor',
         background_color: '#272822',
         start_url: '/',
-        publicPath: '.',
+        publicPath: '/',
         fingerprints: false,
         icons: [
           {
