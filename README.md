@@ -10,6 +10,7 @@ A Text Editor App using Progressive Web Application(PWA).
 4. [Contributions](#contributions)
 6. [References](#references)
 7. [Web Deployment](#webDeployment)
+8. [Connect With Me](#connectWithMe)
 
 
 ## Descriptions
@@ -144,6 +145,10 @@ The app can be used on the browser or as a stand-alone app:
 
 ## Web Deployment
   [Heroku](https://frozen-escarpment-36395.herokuapp.com/)
+
+
+## Connect With me
+[LinkedIn](https://www.linkedin.com/in/sasima-patterson-866a441b7/)
 
 
 
