@@ -1,10 +1,22 @@
 # Text-Editor
-Progressive Web Application(PWA)
+A Text Editor App using Progressive Web Application(PWA).
 
 ## Table of Contents
 
 1. [Descriptions](#descriptions)
 2. [Installations](#installations)
+3. [Tech Use](#techUse)
+5. [Visuals](#visuals)
+4. [Contributions](#contributions)
+6. [References](#references)
+7. [Web Deployment](#webDeployment)
+
+
+## Descriptions
+This is a single-page application features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. 
+
+## Installations
+This app required the following installations.
 
 CodeMirror Themes: is an online editor.
 ```pip
@@ -83,20 +95,54 @@ workbox-webpack-plugin: Workbox provides two webpack plugins: one that generates
   npm i workbox-webpack-plugin
 ```
 
+## Tech Use
+  * IndexedDB
+  * Express
+  * JavaScript
+  * Service Worker
+  * WebpackPwaManifest Plugins
+  * Heroku
+
+## Visuals
+
+The application's manifest.json file:
+
+![manifest](./images/manifest.png)
+
+The application's registered service worker:
+
+![service-worker](./images/service-worker.png)
+
+The application's IndeedDB storage:
+
+![IndexDB](./images/IndexDB.png)
+
+The application can be used offline:
+
+![Offline](./images/Offline.png)
+
+The app can be used on the browser or as a stand-alone app:
+
+![install](./images/install.png)
+
+![app-version](./images/app-version.png)
 
 
-3. [Tech Use](#techUse)
-4. [Contributions](#contributions)
-5. [Visuals](#visuals)
-6. [References](#references)
-      * Mr.Anthony Cooper
-      * Slack Support Team
-      * https://www.npmjs.com/
-      * https://www.rockyourcode.com/javascript-development-run-concurrently/
 
 
-7. [Web Deployment](#webDeployment)
 
+## Contributions
+
+ * Mr.Anthony Cooper
+ * Slack Support Team
+
+## References
+    
+  * https://www.npmjs.com/
+  * https://www.rockyourcode.com/javascript-development-run-concurrently/
+
+
+## Web Deployment
   [Heroku](https://frozen-escarpment-36395.herokuapp.com/)
 
 
