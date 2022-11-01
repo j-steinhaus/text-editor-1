@@ -3,7 +3,7 @@ A Text Editor App using Progressive Web Application(PWA).
 
 ## Table of Contents
 
-1. [Descriptions](#descriptions)
+1. [User Story](#userStory)
 2. [Installations](#installations)
 3. [Tech Use](#techUse)
 5. [Visuals](#visuals)
@@ -13,8 +13,10 @@ A Text Editor App using Progressive Web Application(PWA).
 8. [Connect With Me](#connectWithMe)
 
 
-## Descriptions
-This is a single-page application features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. 
+## User Story
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
 
 ## Installations
 This app required the following installations.
